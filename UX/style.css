@@ -1,0 +1,59 @@
+.valg-af-besgende-eller-studer {
+width: 100%;
+position: relative;
+background-color: #12562a;
+height: 874px;
+overflow: hidden;
+text-align: left;
+font-size: 24px;
+color: #fff;
+font-family: Kanit;
+}
+.valg-af-besgende-eller-studer-child {
+position: absolute;
+top: 364px;
+left: 85px;
+border-radius: 15px;
+background-color: #74927f;
+border: 3px solid #fffeff;
+box-sizing: border-box;
+width: 231px;
+height: 79px;
+cursor: pointer;
+}
+.valg-af-besgende-eller-studer-item {
+position: absolute;
+top: 457px;
+left: 85px;
+border-radius: 15px;
+background-color: #74927f;
+border: 3px solid #fff;
+box-sizing: border-box;
+width: 231px;
+height: 79px;
+cursor: pointer;
+}
+.studerende {
+position: absolute;
+top: 388px;
+left: 127px;
+display: inline-block;
+width: 148px;
+height: 32px;
+}
+.besgende {
+position: absolute;
+top: 481px;
+left: 136px;
+display: inline-block;
+width: 135px;
+height: 32px;
+}
+.c604ea-1a9a-45c5-82b1-fa1108c2-icon {
+position: absolute;
+top: 47px;
+left: 72px;
+width: 258px;
+height: 258px;
+object-fit: cover;
+}
